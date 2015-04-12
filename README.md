@@ -1,6 +1,6 @@
 # meteor-jspdf
 
-A meteor package for [jsPDF](http://jspdf.com).
+A meteor package for [jsPDF](https://parall.ax/products/jspdf).
 
 Original library was converted for use with [Meteor](http://meteor.com) by [Chip Castle Dot Com, Inc.](http://chipcastle.com).
 
@@ -10,7 +10,7 @@ Original library was converted for use with [Meteor](http://meteor.com) by [Chip
 
 ## Documentation
 
-Since this is only a wrapper package, please see the [documentation at jsPDF](http://jspdf.com) for details on how to API usage.
+Since this is only a wrapper package, please see the [documentation at jsPDF](https://parall.ax/products/jspdf) for details on how to API usage.
 
 ## Credits
 
