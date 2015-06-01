@@ -1,6 +1,6 @@
 Package.describe({
   name: 'chipcastledotcom:jspdf',
-  version: '0.0.2',
+  version: '1.0.272',
   // Brief, one-line summary of the package.
   summary: 'Meteor package for wrapping jsPDF',
   // URL to the Git repository containing the source code for this package.
