@@ -1,16 +1,20 @@
 # meteor-jspdf
 
+## THIS PACKAGE IS DEPRECATED
+
+PLEASE USE `jspdf:core` INSTEAD
+
+[jspdf:core on Atmosphere](https://atmospherejs.com/jspdf/core)
+
+Installation:
+
+```
+meteor add jspdf:core
+```
+
 A meteor package for [jsPDF](https://parall.ax/products/jspdf).
 
 Original library was converted for use with [Meteor](http://meteor.com) by [Chip Castle Dot Com, Inc.](http://chipcastle.com).
-
-## Installation
-
-    meteor add chipcastledotcom:jspdf
-
-## Documentation
-
-Since this is only a wrapper package, please see the [documentation at jsPDF](https://parall.ax/products/jspdf) for details on how to API usage.
 
 ## Credits
 
